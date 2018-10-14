@@ -2,23 +2,27 @@
 
 ## 特别事件
 
-- IntelliJ IDEA 2018.1 发布（2018-03-28）
+- IntelliJ IDEA 2018.2 发布（2018-07-25）
 	- 新特性列表：<http://www.jetbrains.com/idea/whatsnew>
 	- 下载：<http://www.jetbrains.com/idea/download/>
+- 实体书
+	- 有在计划出实体书，并且空闲时已经在潦草写点，计划 2019-02 春节前结束。（不排除工作上有事情）
+	- 计算机类书籍销量都很小（总销量能 1W 册算是牛逼了），赚不了什么钱，而且容易 PDF，这是无法阻拦的。写实体书只是因为想白纸黑字证明自己存在过，即使哪天突然消失了也能有人会记得我。
+
 
 
 ## 介绍(Introduce)
 
 - 本套教程适用于：
-	- [IntelliJ IDEA 14、15、2016、2017 版本](https://www.jetbrains.com/idea/)
-	- [WebStorm 2016、2017 版本](https://www.jetbrains.com/webstorm)
-	- [PhpStorm 2016、2017 版本](https://www.jetbrains.com/phpstorm)
-	- [PyCharm 2016、2017 版本](https://www.jetbrains.com/pycharm)
-	- [RubyMine 2016、2017 版本](https://www.jetbrains.com/ruby)
-	- [Gogland 2017 版本](https://www.jetbrains.com/go)
-	- [CLion 2017 版本](https://www.jetbrains.com/clion)
-	- [DataGrip 2016、2017 版本](https://www.jetbrains.com/datagrip)
-	- [Android Studio 2.X、3.X 版本](https://developer.android.com/studio/index.html?hl=zh-cn)
+	- [IntelliJ IDEA 14、15、2016、2017、2018 版本](https://www.jetbrains.com/idea/)
+	- [WebStorm 2016、2017、2018 版本](https://www.jetbrains.com/webstorm)
+	- [PhpStorm 2016、2017、2018 版本](https://www.jetbrains.com/phpstorm)
+	- [PyCharm 2016、2017、2018 版本](https://www.jetbrains.com/pycharm)
+	- [RubyMine 2016、2017、2018 版本](https://www.jetbrains.com/ruby)
+	- [Goland 2017、2018 版本](https://www.jetbrains.com/go)
+	- [CLion 2017、2018 版本](https://www.jetbrains.com/clion)
+	- [DataGrip 2016、2017、2018 版本](https://www.jetbrains.com/datagrip)
+	- [Android Studio 任何版本](https://developer.android.com/studio/index.html?hl=zh-cn)
 - 教程主要面向中文用户，如果你英文良好，建议直接阅读官网帮助文档
 	- 官网帮助中心：<http://www.jetbrains.com/idea/webhelp/getting-help.html>
 - 教程目前在不定时进行调整和补充，需要关注更新的请 `Watch`、`Star`、`Fork`。
@@ -76,22 +80,21 @@
 	- [数据库管理工具](database-introduce.md)
 	- [远程调试介绍（Tomcat + Jetty）](remote-debugging.md)
 - **高级设置介绍**
-	- [IntelliJ IDEA 常用细节设置-1](settings-introduce-1.md)
-	- [IntelliJ IDEA 常用细节设置-2](settings-introduce-2.md)
-	- [IntelliJ IDEA 常用细节设置-3](settings-introduce-3.md)
-	- [IntelliJ IDEA 常用细节设置-4](settings-introduce-4.md)
+	- [IntelliJ IDEA 推荐设置（新人重点）](settings-recommend-introduce.md)
+	- [IntelliJ IDEA 常用细节-1](settings-introduce-1.md)
+	- [IntelliJ IDEA 常用细节-2](settings-introduce-2.md)
+	- [IntelliJ IDEA 常用细节-3](settings-introduce-3.md)
+	- [IntelliJ IDEA 常用细节-4](settings-introduce-4.md)
 - **插件推荐、插件开发**
 	- [插件相关功能设置、插件推荐](plugins-settings.md)
 	- [Java 热部署插件 JRebel 安装及使用](jrebel-setup.md)
 	- [插件开发视频教程](plugins-develop.md)
 - **基于 IntelliJ IDEA 下的 demo 尝试**
-	- [SpringBoot-Simple-Demo](https://github.com/judasn/SpringBoot-Simple-Demo-From-YouMeek)
-	- [SpringBoot-Kafka-Simple-Demo](https://github.com/judasn/SpringBoot-Kafka-From-YouMeek)
+	- [Maven 的单模块 / 多模块 Spring MVC + Spring + Mybatis 项目（新人重点）](maven-java-web-project-introduce.md)
+	- [Maven 的单模块 Spring MVC + Spring + Spring Data JPA 项目](maven-java-web-project-introduce2.md)
+	- [Maven 的单模块 Spring Boot 项目](https://github.com/judasn/SpringBoot-Simple-Demo-From-YouMeek)
 	- [Hello World 的 Java 项目创建和项目配置文件](project-settings.md)
 	- [基于 Eclipse 的 Java Web 项目在 IntelliJ IDEA 下的环境搭建](eclipse-java-web-project-introduce.md)
-	- [Maven 的单模块 / 多模块 Spring MVC + Spring + Mybatis 项目（重点）](maven-java-web-project-introduce.md)
-	- [Maven 的单模块 Spring MVC + Spring + Spring Data JPA 项目](maven-java-web-project-introduce2.md)
-	- [Maven 的单模块 Spring Boot 项目](maven-java-web-project-introduce3.md)
 - **其他（新用户必看）**
 	- [常见各类文件类型图标](file-symbols-introduce.md)
 	- [本教程总结](this-tutorial-the-end.md)
